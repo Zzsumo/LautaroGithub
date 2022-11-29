@@ -58,17 +58,18 @@
   width: 50%;
   border-radius: 6%;
 }
-.ubic {
-  margin-left: 30%;
-  margin-bottom: 20%;
-}
-.video {
-  margin-left: 30%;
-  margin-bottom: 20%;
-}
+
 @media (min-width: 769px) {
   .chico {
     width: 50%;
     margin-left: 250px;
+  }
+  .ubic {
+    margin-left: 30%;
+    margin-bottom: 20%;
+  }
+  .video {
+    margin-left: 30%;
+    margin-bottom: 20%;
   }
 }
