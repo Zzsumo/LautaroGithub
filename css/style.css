@@ -53,7 +53,7 @@
 }
 .secform {
   background-color: rgb(124, 18, 97);
-  border-radius: 6%;
+  border-radius: 0%;
 }
 
 @media (min-width: 769px) {
@@ -64,4 +64,5 @@
 }
 .secform {
   width: 50%;
+  border-radius: 6%;
 }
