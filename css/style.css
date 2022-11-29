@@ -1,0 +1,47 @@
+.menu {
+  background-color: #c70518;
+}
+.body {
+  background-color: dimgray;
+}
+.h1index {
+  color: #f5071e;
+}
+.centrar {
+  margin-top: 50px;
+  margin-right: 10px;
+}
+
+.subir {
+  margin-top: -10px;
+}
+
+.chico {
+  margin-bottom: 100px;
+  margin-top: 40px;
+}
+.tt {
+  color: #8905c7;
+}
+.txtt {
+  color: beige;
+}
+.reservar {
+  background-color: #c71d1d;
+}
+
+.twtt {
+  max-width: 60px;
+  max-height: 60px;
+}
+.ig {
+  max-width: 60px;
+  max-height: 60px;
+}
+
+@media (min-width: 769px) {
+  .chico {
+    width: 50%;
+    margin-left: 250px;
+  }
+}
