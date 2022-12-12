@@ -1,27 +1,2 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-header {
-  background-color: red;
-  .a {
-    color: indigo;
-    &:hover {
-      color: black;
-    }
-  }
-}
-.chico {
-  max-width: 75%;
-  margin-left: 15%;
-}
-
-footer {
-  .ig {
-    max-width: 15%;
-  }
-  .twtt {
-    max-width: 15%;
-  }
-}
+@import "general";
+@import "carrusel";
