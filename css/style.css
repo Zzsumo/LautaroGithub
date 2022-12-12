@@ -1,3 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+header {
+  background-color: red;
+}
+header .a {
+  color: indigo;
+}
+header .a:hover {
+  color: black;
+}
 
 /*# sourceMappingURL=style.css.map */
