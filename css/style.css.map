@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../scss/_general.scss","../scss/_carrusel.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;;;AAGF;EACE;;AACA;EACE;;AACA;EACE;;;AAKJ;EACE;;AAEF;EACE;;;ACpBJ;EACE;EACA","file":"style.css"}
+{"version":3,"sourceRoot":"","sources":["../scss/_general.scss","../scss/_carrusel.scss","../scss/_tarjetas.scss"],"names":[],"mappings":"AAAA;EACE;EACA;EACA;;;AAGF;EACE;;AACA;EACE;;AACA;EACE;;;AAKJ;EACE;;AAEF;EACE;;;ACpBJ;EACE;EACA;;;ACFF;EACE;EACA;EACA;EACA;;AACA;EACE;;AAEF;EACE;;AAEF;EACE","file":"style.css"}
